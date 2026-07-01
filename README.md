@@ -1,195 +1,242 @@
-# 👋 Welcome to My GitHub Profile!
-
 <div align="center">
-  
-[![GitHub followers](https://img.shields.io/github/followers/Jalaj-01?style=social)](https://github.com/Jalaj-01)
-![Profile Views](https://komarev.com/ghpvc/?username=Jalaj-01&color=blueviolet)
+
+# Jalaj Gupta
+
+### Software Engineer • AI • Full Stack
+
+Designing intelligent software, scalable systems, and digital experiences
+that solve real-world problems.
+
+<p>
+  <a href="https://github.com/Jalaj-01">
+    <img src="https://img.shields.io/github/followers/Jalaj-01?style=for-the-badge&logo=github&label=Followers"/>
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=Jalaj-01&style=for-the-badge"/>
+
+</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## Building with purpose.
 
-I'm a **Full-Stack Developer & AI/ML Enthusiast** passionate about building intelligent solutions that solve real-world problems. I work across the modern tech stack, combining **machine learning, web development, and automation** to create impactful applications.
+I enjoy transforming ideas into products.
 
-### 💡 What I Do
-- 🤖 **AI/ML Projects** - Transformer architectures, hyperspectral image classification, and advanced neural networks
-- 💻 **Full-Stack Development** - Building scalable web applications with modern frameworks
-- 🛠️ **Automation & Tools** - Creating practical solutions for complex problems
-- 📊 **Real-time Analytics** - Designing systems with live data processing capabilities
+Whether it's developing AI-powered applications, architecting scalable web platforms, or experimenting with emerging technologies, I believe software should be elegant, useful, and built to last.
+
+My interests span **Artificial Intelligence**, **Full Stack Engineering**, **System Design**, **Automation**, and **Developer Experience**.
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### Frameworks & Libraries
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
-
----
-
-## 📂 Featured Projects
+# Selected Work
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3>🤖 <a href="https://github.com/Jalaj-01/FactoDual-X">FactoDual-X</a></h3>
-      <p><strong>Enhanced Transformer for Hyperspectral Image Classification</strong></p>
-      <p>Advanced CNN-Transformer hybrid with parallel spatial-spectral encoding and cross-modal attention fusion.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
-        <img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square">
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🍽️ <a href="https://github.com/Jalaj-01/MessMeter">MessMeter</a></h3>
-      <p><strong>Smart Mess Management Platform</strong></p>
-      <p>Real-time meal attendance, menu management, and feedback analytics for institutional dining.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-        <img src="https://img.shields.io/badge/Analytics-4285F4?style=flat-square">
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🎓 <a href="https://github.com/Jalaj-01/OptiSeats">OptiSeats</a></h3>
-      <p><strong>Automated Exam Seating System</strong></p>
-      <p>Intelligent allocation engine for exam arrangements using optimization algorithms.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
-        <img src="https://img.shields.io/badge/Optimization-4CAF50?style=flat-square">
-      </p>
-    </td>
-    <td width="50%">
-      <h3>📚 <a href="https://github.com/Jalaj-01/UPSC">UPSC</a></h3>
-      <p><strong>Educational Web Application</strong></p>
-      <p>Learning platform for exam preparation and knowledge management.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-        <img src="https://img.shields.io/badge/Web-4285F4?style=flat-square">
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🎯 <a href="https://github.com/Jalaj-01/FocusArena">FocusArena</a></h3>
-      <p><strong>Productivity & Focus Management Tool</strong></p>
-      <p>Comprehensive platform for managing focus sessions and productivity tracking.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Full_Stack-FF6B6B?style=flat-square">
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🚀 <a href="https://github.com/Jalaj-01/Sarthi">Sarthi</a></h3>
-      <p><strong>Guidance & Navigation Platform</strong></p>
-      <p>Full-stack application for career guidance and learning pathways.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
-      </p>
-    </td>
-  </tr>
+
+<tr>
+
+<td width="50%">
+
+## PrepOS
+
+AI-powered preparation operating system built for UPSC aspirants.
+
+An integrated workspace featuring AI mentoring, collaborative notes, revision systems, planning, analytics, and knowledge management.
+
+**Tech**
+
+React • TypeScript • Node.js • MongoDB • AI
+
+**Links**
+
+🌐 https://theprepos.in
+
+💻 https://github.com/Jalaj-01/prepos
+
+</td>
+
+<td width="50%">
+
+## FocusArena
+
+A productivity platform focused on deep work, structured focus sessions, and habit consistency.
+
+**Tech**
+
+React • TypeScript • Firebase
+
+**Live**
+
+🌐 https://focusarena-pi.vercel.app/
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## MessMeter
+
+Real-time meal attendance, menu management, and analytics platform.
+
+Designed for institutions to simplify dining operations through automation.
+
+🌐 https://mess-feedback-system-d94a5.web.app/
+
+</td>
+
+<td width="50%">
+
+## OptiSeats
+
+Automated exam seating allocation platform.
+
+Generates optimized seating arrangements with downloadable reports.
+
+🌐 https://optiseat.streamlit.app/
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## FactoDual-X
+
+Research exploring dual-branch Transformer architectures for hyperspectral image classification through spectral-spatial learning and cross-modal attention.
+
+</td>
+
+<td width="50%">
+
+## More
+
+Sitezy
+
+Sarthi
+
+Buddy
+
+UPSC
+
+and many more...
+
+</td>
+
+</tr>
+
 </table>
 
 ---
 
-## 📊 GitHub Statistics
+# Engineering Philosophy
+
+I believe good software is more than clean code.
+
+It is thoughtful architecture, intuitive design, continuous refinement, and relentless curiosity.
+
+Every product I build aims to solve a real problem while remaining simple, maintainable, and enjoyable to use.
+
+---
+
+# Technologies
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,ts,js,sql" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase" />
+</p>
+
+### AI • DevOps • Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,docker,git,github,vscode" />
+</p>
+
+---
+
+# Currently Exploring
+
+- Artificial Intelligence
+- AI Agents
+- Large Language Models
+- System Design
+- Distributed Systems
+- Cloud Infrastructure
+- Computer Vision
+- Open Source
+
+---
+
+# GitHub Analytics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jalaj-01&show_icons=true&theme=radical&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jalaj-01&layout=compact&theme=radical)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jalaj-01&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jalaj-01&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Jalaj-01&theme=transparent&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jalaj-01&theme=github-compact&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+# Connect
 
-- 🔬 Advancing research in **Hyperspectral Image Processing** with cutting-edge architectures
-- 🌐 Building **scalable full-stack applications** with modern web technologies
-- 🤝 Contributing to **open-source projects** and community-driven development
-- 📈 Exploring **real-time analytics** and data-driven decision making
-- 🎓 Developing **educational platforms** for learning and skill development
+<p>
 
----
+<a href="https://theprepos.in">Website</a> •
+<a href="https://github.com/Jalaj-01">GitHub</a> •
+<a href="https://linkedin.com/in/jalaj-01">LinkedIn</a>
 
-## 📈 Project Categories
-
-### 🤖 Machine Learning & AI
-- **FactoDual-X** - Hyperspectral image classification with transformers
-- Research focus on advanced neural network architectures
-
-### 💼 Web & Full-Stack
-- **MessMeter** - Modern meal management platform
-- **Sarthi** - Career guidance platform
-- **FocusArena** - Productivity management tool
-- **Sitezy** - Web development toolkit
-
-### 🎓 Educational & Utility
-- **OptiSeats** - Automated exam seating system
-- **UPSC** - Exam preparation platform
-- **PrepOs** - Learning management system
-
----
-
-## 💬 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jalaj-01)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jalaj-01)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=firefox&logoColor=white)](https://github.com/Jalaj-01/Portfolio)
-
-</div>
-
----
-
-## 🏆 Highlights
-
-- 💻 **Full-Stack Developer** with expertise in modern frameworks
-- 🤖 **AI/ML Researcher** focused on image processing and neural networks
-- 📊 **Data-Driven Builder** creating analytical solutions
-- 🎯 **Problem Solver** crafting practical applications for real-world use
-- 📚 **Continuous Learner** exploring emerging technologies
-
----
-
-## 📝 Recent Activity
-
-Check out my latest projects and contributions:
-- 🆕 **FactoDual-X** - State-of-the-art hyperspectral image classification
-- 🆕 **MessMeter** - Real-time mess management and analytics
-- 🔄 **Ongoing** - Building more intelligent systems and tools
+</p>
 
 ---
 
 <div align="center">
 
-### ⭐ If you find my work interesting, feel free to star my repositories!
+### "Build things that matter."
 
-**"The best way to predict the future is to invent it."** — Alan Kay
+Software is never finished.
 
----
-
-*Last Updated: June 2026* | *Always open to collaboration and new opportunities!* 🚀
+It's continuously improved.
 
 </div>
