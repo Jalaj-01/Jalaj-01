@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 350" width="100%" height="100%">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600&amp;family=Space+Mono&amp;display=swap');
+      
+      .bg {
+        fill: #0d1117;
+        stroke: #30363d;
+        stroke-width: 1.5;
+        rx: 12px;
+      }
+      
+      .panel {
+        fill: #161b22;
+        stroke: #30363d;
+        stroke-width: 1;
+        rx: 8px;
+      }
+      
+      .text-title {
+        font-family: 'Space Grotesk', -apple-system, sans-serif;
+        font-weight: 600;
+        font-size: 16px;
+        fill: #ffffff;
+      }
+      
+      .text-body {
+        font-family: 'Space Grotesk', sans-serif;
+        font-size: 12px;
+        fill: #8b949e;
+      }
+
+      .text-mono {
+        font-family: 'Space Mono', monospace;
+        font-size: 10px;
+        fill: #58a6ff;
+        letter-spacing: 0.5px;
+      }
+      
+      .ai-bubble {
+        fill: #58a6ff;
+        fill-opacity: 0.1;
+        stroke: #58a6ff;
+        stroke-width: 0.75;
+        rx: 6px;
+      }
+
+      .progress-bar {
+        fill: #21262d;
+        rx: 4px;
+      }
+
+      .progress-fill {
+        fill: #58a6ff;
+        rx: 4px;
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect class="bg" width="100%" height="100%" />
+
+  <!-- Grid Decoration -->
+  <line x1="30" y1="0" x2="30" y2="350" stroke="#30363d" stroke-width="0.5" stroke-dasharray="4 4" />
+  
+  <!-- Top Navigation Mockup -->
+  <g transform="translate(50, 35)">
+    <text class="text-mono" x="0" y="0">PROJECTS // PREPOS // ACTIVE_DEV</text>
+    <circle cx="520" cy="-4" r="4" fill="#238636" />
+  </g>
+
+  <!-- Left Sidebar Panel: AI Mentor Ally -->
+  <g transform="translate(50, 60)">
+    <rect class="panel" width="220" height="250" />
+    <text class="text-title" x="20" y="30">ALLY AI Mentor</text>
+    <text class="text-body" x="20" y="50">UPSC Coaching Assistant</text>
+    
+    <!-- AI Message Mockups -->
+    <g transform="translate(20, 80)">
+      <rect class="ai-bubble" width="180" height="50" />
+      <text class="text-mono" x="10" y="20" fill="#58a6ff">ALLY:</text>
+      <text class="text-body" x="10" y="35" font-size="10" fill="#c9d1d9">Analyzing 2025 PYQ Trends...</text>
+    </g>
+    
+    <g transform="translate(20, 140)">
+      <rect class="panel" width="180" height="40" stroke="#30363d" />
+      <text class="text-body" x="10" y="24" font-size="10">Ask ALLY about Polity...</text>
+      <circle cx="160" cy="20" r="6" fill="#30363d" />
+      <path d="M158 20 L162 20 M160 18 L160 22" stroke="#8b949e" stroke-width="1" />
+    </g>
+    
+    <!-- Metrics -->
+    <text class="text-mono" x="20" y="215" fill="#8b949e">TOKEN USAGE:</text>
+    <text class="text-mono" x="20" y="230">92,410 / 100K (OPTIMIZED)</text>
+  </g>
+
+  <!-- Right Top Panel: Study Planner -->
+  <g transform="translate(290, 60)">
+    <rect class="panel" width="260" height="115" />
+    <text class="text-title" x="20" y="30">Revision Planner</text>
+    
+    <g transform="translate(20, 50)">
+      <text class="text-body" x="0" y="15">Syllabus Coverage</text>
+      <text class="text-mono" x="190" y="15">78.4%</text>
+      <rect class="progress-bar" x="0" y="25" width="220" height="8" />
+      <rect class="progress-fill" x="0" y="25" width="172" height="8" />
+    </g>
+    
+    <g transform="translate(20, 95)">
+      <circle cx="5" cy="-3" r="3" fill="#58a6ff" />
+      <text class="text-body" x="15" y="1" font-size="10">Next test: Modern Indian History (Tomorrow)</text>
+    </g>
+  </g>
+
+  <!-- Right Bottom Panel: Notes Management -->
+  <g transform="translate(290, 195)">
+    <rect class="panel" width="260" height="115" />
+    <text class="text-title" x="20" y="30">Collaborative Workspace</text>
+    
+    <!-- Notes files list mockup -->
+    <g transform="translate(20, 50)" fill="#8b949e">
+      <rect x="0" y="0" width="10" height="10" fill="#30363d" />
+      <text class="text-body" x="20" y="10" font-size="11" fill="#c9d1d9">GS_Paper_II_Polity.md</text>
+      <text class="text-mono" x="190" y="10">EDITING</text>
+      
+      <rect x="0" y="22" width="10" height="10" fill="#30363d" />
+      <text class="text-body" x="20" y="32" font-size="11">Ethics_Case_Studies.md</text>
+      <text class="text-mono" x="190" y="32" fill="#8b949e">SYNCED</text>
+      
+      <rect x="0" y="44" width="10" height="10" fill="#30363d" />
+      <text class="text-body" x="20" y="54" font-size="11">Economics_Budget_2026.md</text>
+      <text class="text-mono" x="190" y="54" fill="#8b949e">SYNCED</text>
+    </g>
+  </g>
+</svg>
