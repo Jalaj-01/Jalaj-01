@@ -1,175 +1,170 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58A6FF&height=220&section=header&text=Jalaj%20Gupta&fontSize=55&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Product%20Thinker&descSize=18&descAlignY=55&descColor=8b949e" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:58A6FF&height=250&section=header&text=Jalaj%20Gupta&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Product%20Thinker&descSize=20&descAlignY=60&descColor=58A6FF" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=I+build+AI-powered+products.;I+ship+things+that+actually+work.;I+turn+complexity+into+clarity.;Building+useful+software+since+day+one." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=I+build+AI-powered+products.;I+ship+things+that+actually+work.;I+turn+complexity+into+clarity.;Building+useful+software+since+day+one." alt="Typing SVG" />
 
 <br/><br/>
 
 <p align="center">
-  <a href="https://theprepos.in">
-    <img src="https://img.shields.io/badge/🌐_Website-0D1117?style=for-the-badge&logoColor=58A6FF" />
+  <a href="https://jalaj-gupta.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Website-000000?style=for-the-badge&labelColor=000000" />
   </a>
-  <a href="https://linkedin.com/in/jalaj-01">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-  </a>
-  <a href="mailto:jalajgupta5550@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  <a href="mailto:jalajgupta550@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=000000" />
   </a>
   <a href="https://github.com/Jalaj-01">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jalaj-01&style=for-the-badge&color=0D1117&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/Jalaj-01?style=for-the-badge&color=0D1117&label=Followers&logo=github&logoColor=58A6FF" />
-  <img src="https://img.shields.io/badge/Open_Source-❤️-0D1117?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Jalaj-01&style=for-the-badge&color=000000&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/Jalaj-01?style=for-the-badge&color=000000&label=Followers&logo=github&logoColor=58A6FF" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI_Products-58A6FF?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/System_Design-58A6FF?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full_Stack-58A6FF?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/First_Principles-58A6FF?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ship_Fast-58A6FF?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Products-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/System_Design-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Full_Stack-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/First_Principles-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ship_Fast-58A6FF?style=flat-square" />
 </p>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## `> whoami`
+<h2 align="center">⚡ About Me</h2>
 
-```js
-const jalaj = {
-    role: "Software Engineer • AI Builder • Product Thinker",
-    location: "India",
-    currently_building: "PrepOS — AI-powered Operating System for UPSC",
-    languages: ["Python", "Java", "JavaScript", "TypeScript"],
-    technologies: {
-        frontend: ["React", "Next.js", "TypeScript"],
-        backend: ["Node.js", "Express", "REST APIs"],
-        databases: ["MongoDB", "MySQL", "Firebase", "Supabase"],
-        ai_ml: ["TensorFlow", "Computer Vision", "AI Agents"],
-        devops: ["Docker", "Git", "GitHub Actions", "Vercel"],
-    },
-    currently_exploring: ["AI Agents", "System Design", "Distributed Systems"],
-    philosophy: "Build things that reduce complexity, not add to it.",
-    fun_fact: "I don't collect unfinished ideas. I ship."
-};
-```
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## `> cat about.md`
+### 🧠 Who I Am
 
 I'm a software engineer who builds from **first principles**.
 
 Every project starts with a real problem. I strip away the noise, design a clean solution, iterate hard, and ship something genuinely useful.
 
-My work sits at the intersection of:
+- 🎯 Focused on **AI-powered products**
+- 🏗️ Passionate about **scalable systems**
+- 🚀 Obsessed with **shipping quality work**
+- 💡 Driven by **real problems**, not hype
 
-<table>
-<tr>
-<td align="center" width="20%">
-<b>🤖 AI</b><br/>
-<sub>Building intelligent products powered by AI</sub>
 </td>
-<td align="center" width="20%">
-<b>🏗️ Systems</b><br/>
-<sub>Designing scalable backend architectures</sub>
-</td>
-<td align="center" width="20%">
-<b>🎨 Frontend</b><br/>
-<sub>Crafting clean, responsive interfaces</sub>
-</td>
-<td align="center" width="20%">
-<b>📦 Products</b><br/>
-<sub>Shipping software people actually use</sub>
-</td>
-<td align="center" width="20%">
-<b>⚡ DX</b><br/>
-<sub>Improving developer workflows and tooling</sub>
+<td width="50%" valign="top">
+
+### 🎯 What Drives Me
+
+Building software that creates **leverage**.
+
+- ✅ Helping users think better
+- ✅ Helping teams move faster
+- ✅ Reducing repetitive work at scale
+- ✅ Turning complexity into simple workflows
+- ✅ Building products that solve real pain
+
+> The best software feels obvious **after** it exists.
+> That's the standard I chase.
+
 </td>
 </tr>
 </table>
 
-> **I care more about usefulness than hype.**
-> **More about shipping than talking.**
-> **More about depth than noise.**
+<br/>
+
+<div align="center">
+
+### 🌟 My Focus Areas
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="40"/><br/>
+<b>AI</b><br/>
+<sub>Intelligent products</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/48/settings.png" width="40"/><br/>
+<b>Systems</b><br/>
+<sub>Scalable architectures</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/48/paint-palette.png" width="40"/><br/>
+<b>Frontend</b><br/>
+<sub>Clean interfaces</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/48/product.png" width="40"/><br/>
+<b>Products</b><br/>
+<sub>Real user impact</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/48/lightning-bolt.png" width="40"/><br/>
+<b>DX</b><br/>
+<sub>Developer tooling</sub>
+</td>
+</tr>
+</table>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## `> ls projects/`
-
-<details open>
-<summary><b>🧠 PrepOS — AI-powered Preparation Operating System</b></summary>
+<h2 align="center">🚀 Featured Projects</h2>
 
 <br/>
 
 <div align="center">
 
-| | |
-|---|---|
-| **What** | An intelligent workspace for UPSC aspirants |
-| **Features** | AI assistance, collaborative notes, revision planning, PYQ analysis, productivity tools |
-| **Why it matters** | One system for serious preparation — no more juggling disconnected tools |
-| **Stack** | `React` `TypeScript` `Node.js` `MongoDB` `AI` |
-| **Status** | 🟢 Live |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 PrepOS
+**AI-Powered Preparation OS**
+
+An intelligent workspace for UPSC aspirants — AI assistance, collaborative notes, revision planning, PYQ analysis, and productivity tools in one platform.
+
+**Stack:** `React` `TypeScript` `Node.js` `MongoDB` `AI`
 
 <br/>
 
 <a href="https://theprepos.in">
-  <img src="https://img.shields.io/badge/🌐_Live_Platform-58A6FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌐_Live-58A6FF?style=for-the-badge" />
 </a>
 <a href="https://github.com/Jalaj-01/prepos">
-  <img src="https://img.shields.io/badge/💻_Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/💻_Code-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</div>
+</td>
+<td width="50%" valign="top">
 
-</details>
+### ⏱ FocusArena
+**Deep Work Platform**
 
-<details>
-<summary><b>⏱ FocusArena — Platform for deep work and intentional focus</b></summary>
+A modern productivity platform for structured focus sessions, deep work, and sustainable study habits.
 
-<br/>
+**Stack:** `React` `Vercel` `Frontend`
 
-<div align="center">
-
-| | |
-|---|---|
-| **What** | A productivity platform for structured focus sessions |
-| **Features** | Deep work tracking, study habit building, session management |
-| **Why it matters** | Cleaner system for concentrated work instead of chaotic task switching |
-| **Stack** | `React` `Frontend` `Vercel` |
-| **Status** | 🟢 Live |
-
-<br/>
+<br/><br/><br/>
 
 <a href="https://focusarena-pi.vercel.app/">
   <img src="https://img.shields.io/badge/🌐_Live_Demo-58A6FF?style=for-the-badge" />
 </a>
 
-</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-</details>
+### 🍽 MessMeter
+**Smart Dining Management**
 
-<details>
-<summary><b>🍽 MessMeter — Smart institutional dining management</b></summary>
+Institutional dining platform with attendance automation, menu feedback, and analytics for smarter operations.
 
-<br/>
-
-<div align="center">
-
-| | |
-|---|---|
-| **What** | Dining management platform for institutions |
-| **Features** | Attendance automation, menu feedback, real-time analytics |
-| **Why it matters** | Turns messy daily operations into data-driven decision-making |
-| **Stack** | `Firebase` `Web` `Analytics` |
-| **Status** | 🟢 Live |
+**Stack:** `Firebase` `Web` `Analytics`
 
 <br/>
 
@@ -177,24 +172,15 @@ My work sits at the intersection of:
   <img src="https://img.shields.io/badge/🌐_Live_Demo-58A6FF?style=for-the-badge" />
 </a>
 
-</div>
+</td>
+<td width="50%" valign="top">
 
-</details>
+### 🪑 OptiSeats
+**Exam Seating Optimizer**
 
-<details>
-<summary><b>🪑 OptiSeats — Automated exam seating allocation</b></summary>
+Automated seating allocation engine that generates optimized exam plans under real-world constraints.
 
-<br/>
-
-<div align="center">
-
-| | |
-|---|---|
-| **What** | Seating allocation engine for examinations |
-| **Features** | Constraint-based optimization, automatic seat plan generation |
-| **Why it matters** | Removes manual planning effort and improves reliability |
-| **Stack** | `Python` `Streamlit` |
-| **Status** | 🟢 Live |
+**Stack:** `Python` `Streamlit`
 
 <br/>
 
@@ -202,32 +188,43 @@ My work sits at the intersection of:
   <img src="https://img.shields.io/badge/🌐_Live_Demo-58A6FF?style=for-the-badge" />
 </a>
 
-</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-</details>
+### 🔬 FactoDual-X
+**Hyperspectral AI Research**
 
-<details>
-<summary><b>🔬 FactoDual-X — Transformer-based hyperspectral image classification</b></summary>
+Transformer-based project on hyperspectral image classification using spectral-spatial learning and cross-modal attention.
+
+**Stack:** `Python` `TensorFlow` `Research`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔧 More Coming Soon
+**Building. Shipping. Iterating.**
+
+New AI-first products and developer tools in the pipeline. Always exploring the next problem worth solving.
 
 <br/>
 
-<div align="center">
+<a href="https://github.com/Jalaj-01?tab=repositories">
+  <img src="https://img.shields.io/badge/→_All_Projects-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-| | |
-|---|---|
-| **What** | Research project on hyperspectral image classification |
-| **Focus** | Spectral-spatial learning, cross-modal attention, transformer architectures |
-| **Why it matters** | Pushing boundaries in applied AI and deep learning |
-| **Stack** | `Python` `TensorFlow` `Research` |
-| **Status** | 🔬 Research |
+</td>
+</tr>
+</table>
 
 </div>
 
-</details>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## `> cat toolbox.md`
+<h2 align="center">🛠 Tech Stack</h2>
+
+<br/>
 
 <div align="center">
 
@@ -237,142 +234,154 @@ My work sits at the intersection of:
 
 <br/>
 
+<div align="center">
+
 <table>
 <tr>
-<td valign="top" width="25%">
+<td align="center" valign="top" width="25%">
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6)
+**💻 Languages**
 
-</td>
-<td valign="top" width="25%">
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6)
 
 </td>
-<td valign="top" width="25%">
+<td align="center" valign="top" width="25%">
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0D1117?style=flat-square&logo=fastapi&logoColor=58A6FF)
+**🎨 Frontend**
+
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 
 </td>
-<td valign="top" width="25%">
+<td align="center" valign="top" width="25%">
 
-### 🗄️ Data & Infra
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1)
-![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=FFCA28)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
+**⚙️ Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![APIs](https://img.shields.io/badge/REST_APIs-000000?style=flat-square&logoColor=58A6FF)
+
+</td>
+<td align="center" valign="top" width="25%">
+
+**🗄️ Data & Infra**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=FFCA28)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED)
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## `> cat current_mode.md`
-
-```yaml
-building:
-  - AI-powered products and practical software systems
-  - Shipping features for PrepOS
-
-learning:
-  - System Design & Distributed Systems
-  - Cloud Infrastructure & DevOps
-  - Advanced AI/ML architectures
-
-exploring:
-  - AI Agents — autonomous goal-driven systems
-  - Computer Vision — practical visual intelligence
-  - Developer Experience — making workflows faster
-
-optimizing:
-  - Simplicity in design
-  - Speed of execution
-  - Quality of shipped work
-  - Product instinct
-```
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## `> cat what_drives_me.md`
+<h2 align="center">🔥 Current Focus</h2>
 
-I want to build software that creates **leverage**.
-
-That can mean:
-- ✅ helping users think better
-- ✅ helping teams move faster
-- ✅ reducing repetitive work at scale
-- ✅ turning complexity into simple workflows
-- ✅ building products that solve a very real pain point
-
-The best software feels obvious **after** it exists.
-
-That's the standard I chase.
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## `> cat engineering_philosophy.md`
+<br/>
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════╗
-║                                              ║
-║   Clarity       >   Complexity               ║
-║   Shipping      >   Endless planning          ║
-║   Systems       >   Shortcuts                 ║
-║   Usefulness    >   Noise                     ║
-║   Depth         >   Surface-level polish      ║
-║   Consistency   >   Intensity                 ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-```
+<table>
+<tr>
+<td align="center" width="25%">
+<h3>🏗 Building</h3>
+AI-powered products<br/>
+Practical software systems<br/>
+Shipping PrepOS features
+</td>
+<td align="center" width="25%">
+<h3>📚 Learning</h3>
+System Design<br/>
+Distributed Systems<br/>
+Cloud Infrastructure
+</td>
+<td align="center" width="25%">
+<h3>🔍 Exploring</h3>
+AI Agents<br/>
+Computer Vision<br/>
+Developer Experience
+</td>
+<td align="center" width="25%">
+<h3>⚡ Optimizing</h3>
+Simplicity<br/>
+Execution speed<br/>
+Product quality
+</td>
+</tr>
+</table>
 
 </div>
 
-> Engineering is not about making things look complicated.
-> It's about understanding the moving parts well enough to make them feel simple.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<h2 align="center">💭 Engineering Philosophy</h2>
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### ✅ I Value
+**Clarity** over Complexity<br/>
+**Shipping** over Endless Planning<br/>
+**Systems** over Shortcuts<br/>
+**Usefulness** over Noise<br/>
+**Depth** over Surface Polish<br/>
+**Consistency** over Intensity
+
+</td>
+<td align="center" width="50%">
+
+### 🎯 How I Build
+Start from **first principles**<br/>
+Understand the **real problem**<br/>
+Design **before** forcing code<br/>
+Iterate **fast**, refine **harder**<br/>
+Ship when it's **genuinely useful**<br/>
+Improve **relentlessly**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+> **Engineering is the craft of making difficult things feel simple.**
+> Not by ignoring complexity — but by understanding it deeply enough to reduce it.
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## `> github --stats`
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<br/>
 
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Jalaj-01&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=58A6FF&rank_icon=github" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jalaj-01&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9" />
 
-<br/>
+<br/><br/>
 
 <img height="180" src="https://streak-stats.demolab.com?user=Jalaj-01&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jalaj-01&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=58A6FF" />
 
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
+<br/><br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Jalaj-01&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
 
@@ -380,76 +389,82 @@ That's the standard I chase.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## `> cat beyond_code.md`
+<h2 align="center">🌍 Beyond Code</h2>
+
+<div align="center">
 
 Outside of active building, I spend time:
 
-- 📐 studying how great systems are architected
-- 🧠 thinking about why some products feel inevitable
-- 🤖 exploring how AI changes product design
-- ⚡ improving speed and quality of my engineering workflow
-- 📖 reading about distributed systems and infrastructure
+📐 **studying** how great systems are architected<br/>
+🧠 **thinking** about why some products feel inevitable<br/>
+🤖 **exploring** how AI changes product design<br/>
+⚡ **improving** the speed and quality of my workflow<br/>
+📖 **reading** about distributed systems and infrastructure
 
-I like ambitious ideas.
+<br/>
 
-But I respect **execution** more.
+> I like ambitious ideas.
+> But I respect **execution** more.
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## `> cat open_to.md`
+<h2 align="center">🤝 Open To</h2>
+
+<div align="center">
 
 <table>
 <tr>
-<td>✅</td>
+<td align="center">🚀</td>
 <td>Building meaningful products</td>
-</tr>
-<tr>
-<td>✅</td>
+<td align="center">🤖</td>
 <td>Collaborating on AI-first ideas</td>
 </tr>
 <tr>
-<td>✅</td>
+<td align="center">💬</td>
 <td>Serious engineering conversations</td>
-</tr>
-<tr>
-<td>✅</td>
+<td align="center">📦</td>
 <td>Product-driven software work</td>
 </tr>
 <tr>
-<td>✅</td>
-<td>Opportunities where ownership and execution matter</td>
+<td align="center">🎯</td>
+<td>Ownership-driven opportunities</td>
+<td align="center">🌱</td>
+<td>Learning from strong builders</td>
 </tr>
 </table>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
-## `> connect`
+<h2>📬 Let's Connect</h2>
 
 If you're building something real, useful, and ambitious — let's talk.
 
+<br/>
+
 <p align="center">
-  <a href="https://theprepos.in">
-    <img src="https://img.shields.io/badge/🌐_Website-0D1117?style=for-the-badge" />
+  <a href="https://jalaj-gupta.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Visit_Website-000000?style=for-the-badge&labelColor=000000" />
   </a>
-  <a href="https://linkedin.com/in/jalaj-01">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-  </a>
-  <a href="mailto:jalajgupta5550@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  <a href="mailto:jalajgupta550@gmail.com">
+    <img src="https://img.shields.io/badge/Send_Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=000000" />
   </a>
   <a href="https://github.com/Jalaj-01">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/Follow_on_GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000" />
   </a>
 </p>
 
 <br/>
 
-### Build things that matter. Then make them impossible to ignore.
+### ✨ Build things that matter. Then make them impossible to ignore. ✨
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58A6FF&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1a1a2e,100:000000&height=120&section=footer" width="100%" />
 
 </div>
