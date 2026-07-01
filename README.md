@@ -364,31 +364,6 @@ Improve **relentlessly**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<br/>
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Jalaj-01&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=58A6FF&rank_icon=github" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jalaj-01&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9" />
-
-<br/><br/>
-
-<img height="180" src="https://streak-stats.demolab.com?user=Jalaj-01&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jalaj-01&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=58A6FF" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Jalaj-01&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <h2 align="center">🌍 Beyond Code</h2>
 
 <div align="center">
