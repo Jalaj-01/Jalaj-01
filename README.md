@@ -76,42 +76,6 @@ Building software that creates **leverage**.
 
 <div align="center">
 
-### 🌟 My Focus Areas
-
-<table>
-<tr>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="40"/><br/>
-<b>AI</b><br/>
-<sub>Intelligent products</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/48/settings.png" width="40"/><br/>
-<b>Systems</b><br/>
-<sub>Scalable architectures</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/48/paint-palette.png" width="40"/><br/>
-<b>Frontend</b><br/>
-<sub>Clean interfaces</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/48/product.png" width="40"/><br/>
-<b>Products</b><br/>
-<sub>Real user impact</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/48/lightning-bolt.png" width="40"/><br/>
-<b>DX</b><br/>
-<sub>Developer tooling</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <h2 align="center">🚀 Featured Projects</h2>
 
 <br/>
